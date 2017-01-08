@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Milan, OH</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Milan__OH/*http://weather.yahoo.com/forecast/USOH0602_f.html</link>
+<description>Yahoo! Weather for Milan, OH</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 17 Jun 2015 6:51 pm EDT</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Milan" region="OH"   country="United States"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="73"   direction="130"   speed="6" />
+<yweather:atmosphere humidity="71"  visibility="10"  pressure="30.02"  rising="0" />
+<yweather:astronomy sunrise="5:53 am"   sunset="9:01 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Milan, OH at 6:51 pm EDT</title>
+<geo:lat>41.29</geo:lat>
+<geo:long>-82.6</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Milan__OH/*http://weather.yahoo.com/forecast/USOH0602_f.html</link>
+<pubDate>Wed, 17 Jun 2015 6:51 pm EDT</pubDate>
+<yweather:condition  text="Partly Cloudy"  code="30"  temp="73"  date="Wed, 17 Jun 2015 6:51 pm EDT" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br />
+<b>Current Conditions:</b><br />
+Partly Cloudy, 73 F<BR />
+<BR /><b>Forecast:</b><BR />
+Wed - Thunderstorms Late. High: 72 Low: 68<br />
+Thu - PM Thunderstorms. High: 82 Low: 63<br />
+Fri - Mostly Cloudy. High: 68 Low: 59<br />
+Sat - PM Thunderstorms. High: 84 Low: 69<br />
+Sun - Scattered Thunderstorms. High: 83 Low: 66<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Milan__OH/*http://weather.yahoo.com/forecast/USOH0602_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Wed" date="17 Jun 2015" low="68" high="72" text="Thunderstorms Late" code="4" />
+<yweather:forecast day="Thu" date="18 Jun 2015" low="63" high="82" text="PM Thunderstorms" code="38" />
+<yweather:forecast day="Fri" date="19 Jun 2015" low="59" high="68" text="Mostly Cloudy" code="28" />
+<yweather:forecast day="Sat" date="20 Jun 2015" low="69" high="84" text="PM Thunderstorms" code="38" />
+<yweather:forecast day="Sun" date="21 Jun 2015" low="66" high="83" text="Scattered Thunderstorms" code="38" />
+<guid isPermaLink="false">USOH0602_2015_06_21_7_00_EDT</guid>
+</item>
+</channel>
+</rss>
+
+<!-- fan1645.sports.bf1.yahoo.com Wed Jun 17 16:38:02 PDT 2015 -->
