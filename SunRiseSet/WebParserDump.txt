@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2017-01-08T22:16:36Z" yahoo:lang="en-US"><results><channel><yweather:astronomy xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" sunrise="8:19 am" sunset="4:7 pm"/></channel></results></query><!-- total: 48 -->
-<!-- prod_bf1_1;paas.yql;queryyahooapiscomproductionbf1;51d6542b-d4d2-11e6-940f-d4ae52974741 -->
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="0" yahoo:created="2017-01-20T11:16:02Z" yahoo:lang="en-US"><results/></query><!-- total: 5002 -->
+<!-- prod_bf1_1;paas.yql;queryyahooapiscomproductionbf1;ff901165-dcbd-11e6-940f-d4ae52974741 -->

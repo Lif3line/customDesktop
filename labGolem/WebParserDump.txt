@@ -1,4 +1,292 @@
 test1 (FIERY),January 08, 2017 at 01:02PM 
 test2 (FIERY),January 08, 2017 at 01:02PM 
 test3 (FIERY),January 08, 2017 at 01:02PM 
-A Super Long Test Title With Mang Characters RRRRRR (FIERY),January 08, 2017 at 06:16PM
+A Super Long Test Title With Mang Characters RRRRRR (FIERY),January 08, 2017 at 06:16PM 
+Look email! (FIERY),January 22, 2017 at 03:37PM 
+Error Detected D: (ANDERSONTESLA),January 23, 2017 at 12:39PM 
+noRestHighLvl Done^^,January 23, 2017 at 05:58PM 
+DB1 SUbject 1 Complete,April 22, 2017 at 06:08AM 
+DB1 SUbject 27 Complete,April 22, 2017 at 12:47PM 
+DB1 SUbject 2 Complete,April 22, 2017 at 07:08PM 
+DB1 SUbject 27 Complete,April 23, 2017 at 05:42AM 
+DB1 SUbject 2 Complete,April 23, 2017 at 02:03PM 
+DB1 SUbject 26 Complete,April 23, 2017 at 02:14PM 
+DB1 SUbject 3 Complete,April 23, 2017 at 05:32PM 
+DB1 SUbject 25 Complete,April 23, 2017 at 10:12PM 
+DB1 SUbject 24 Complete,April 24, 2017 at 08:22AM 
+DB1 SUbject 26 Complete,April 23, 2017 at 02:14PM 
+DB1 SUbject 23 Complete,April 24, 2017 at 04:03PM 
+DB1 SUbject 22 Complete,April 24, 2017 at 11:56PM 
+DB1 SUbject 4 Complete,April 25, 2017 at 03:22AM 
+DB1 SUbject 5 Complete,April 25, 2017 at 07:03AM 
+DB1 SUbject 21 Complete,April 25, 2017 at 10:20AM 
+DB1 SUbject 6 Complete,April 25, 2017 at 10:23AM 
+DB1 SUbject 7 Complete,April 25, 2017 at 02:14PM 
+DB1 SUbject 8 Complete,April 25, 2017 at 05:41PM 
+DB1 SUbject 20 Complete,April 25, 2017 at 08:38PM 
+DB1 SUbject 9 Complete,April 26, 2017 at 04:03AM 
+DB1 SUbject 19 Complete,April 26, 2017 at 05:31AM 
+DB1 SUbject 10 Complete,April 26, 2017 at 07:29AM 
+DB1 SUbject 11 Complete,April 26, 2017 at 10:20AM 
+DB1 SUbject 18 Complete,April 26, 2017 at 01:12PM 
+DB1 SUbject 12 Complete,April 26, 2017 at 01:52PM 
+DB1 SUbject 13 Complete,April 26, 2017 at 05:22PM 
+DB1 SUbject 17 Complete,April 26, 2017 at 09:37PM 
+DB1 SUbject 14 Complete,April 27, 2017 at 04:29AM 
+DB1 SUbject 16 Complete,April 27, 2017 at 06:35AM 
+DB1 SUbject 15 Complete,April 27, 2017 at 07:26AM 
+DB1 SUbject 15 Complete,April 27, 2017 at 02:56PM 
+DB1 SUbject 14 Complete,April 27, 2017 at 10:49PM 
+DB1 SUbject 13 Complete,April 28, 2017 at 06:48AM 
+DB1 SUbject 12 Complete,April 28, 2017 at 03:21PM 
+DB1 SUbject 1 Complete,April 28, 2017 at 05:53PM 
+DB1 MLP Subject 1 Complete,April 28, 2017 at 06:42PM 
+DB1 MLP Subject 2 Complete,April 28, 2017 at 07:13PM 
+DB1 MLP Subject 3 Complete,April 28, 2017 at 07:38PM 
+DB1 MLP Subject 4 Complete,April 28, 2017 at 08:06PM 
+DB1 MLP Subject 5 Complete,April 28, 2017 at 08:33PM 
+DB1 MLP Subject 6 Complete,April 28, 2017 at 09:00PM 
+DB1 Naive Cnv SUbject 1 Complete,April 28, 2017 at 09:07PM 
+DB1 MLP Subject 7 Complete,April 28, 2017 at 09:30PM 
+DB1 MLP Subject 8 Complete,April 28, 2017 at 09:58PM 
+DB1 MLP Subject 9 Complete,April 28, 2017 at 10:26PM 
+DB1 MLP Subject 10 Complete,April 28, 2017 at 10:56PM 
+DB1 MLP Subject 11 Complete,April 28, 2017 at 11:24PM 
+DB1 MLP Subject 12 Complete,April 28, 2017 at 11:52PM 
+DB1 Naive Cnv SUbject 2 Complete,April 28, 2017 at 11:52PM 
+DB1 MLP Subject 13 Complete,April 29, 2017 at 12:19AM 
+DB1 MLP Subject 14 Complete,April 29, 2017 at 12:48AM 
+DB1 MLP Subject 15 Complete,April 29, 2017 at 01:15AM 
+DB1 MLP Subject 16 Complete,April 29, 2017 at 01:44AM 
+DB1 MLP Subject 17 Complete,April 29, 2017 at 02:11AM 
+DB1 Naive Cnv SUbject 3 Complete,April 29, 2017 at 02:26AM 
+DB1 MLP Subject 18 Complete,April 29, 2017 at 02:35AM 
+DB1 MLP Subject 19 Complete,April 29, 2017 at 03:00AM 
+DB1 MLP Subject 20 Complete,April 29, 2017 at 03:30AM 
+DB1 MLP Subject 21 Complete,April 29, 2017 at 04:00AM 
+DB1 MLP Subject 22 Complete,April 29, 2017 at 04:28AM 
+DB1 Naive Cnv SUbject 4 Complete,April 29, 2017 at 04:52AM 
+DB1 MLP Subject 23 Complete,April 29, 2017 at 04:54AM 
+DB1 MLP Subject 24 Complete,April 29, 2017 at 05:24AM 
+DB1 MLP Subject 25 Complete,April 29, 2017 at 05:51AM 
+DB1 MLP Subject 26 Complete,April 29, 2017 at 06:24AM 
+DB1 MLP Subject 27 Complete,April 29, 2017 at 06:49AM 
+DB1 Naive Cnv SUbject 5 Complete,April 29, 2017 at 07:25AM 
+DB1 Naive Cnv SUbject 6 Complete,April 29, 2017 at 09:37AM 
+DB1 Naive Cnv SUbject 7 Complete,April 29, 2017 at 12:19PM 
+DB1 Naive Cnv SUbject 8 Complete,April 29, 2017 at 02:48PM 
+DB1 Naive Cnv SUbject 9 Complete,April 29, 2017 at 05:03PM 
+DB1 Naive Cnv SUbject 10 Complete,April 29, 2017 at 07:38PM 
+DB1 Naive Cnv SUbject 11 Complete,April 29, 2017 at 09:40PM 
+DB1 Naive Cnv SUbject 12 Complete,April 30, 2017 at 12:04AM 
+DB1 Naive Cnv SUbject 13 Complete,April 30, 2017 at 02:12AM 
+DB1 Naive Cnv SUbject 14 Complete,April 30, 2017 at 04:33AM 
+DB1 Naive Cnv SUbject 15 Complete,April 30, 2017 at 07:01AM 
+DB1 Naive Cnv SUbject 16 Complete,April 30, 2017 at 09:17AM 
+DB1 Naive Cnv SUbject 17 Complete,April 30, 2017 at 11:53AM 
+DB1 Naive Cnv SUbject 18 Complete,April 30, 2017 at 02:12PM 
+DB1 Naive Cnv SUbject 19 Complete,April 30, 2017 at 04:39PM 
+DB1 Naive Cnv SUbject 20 Complete,April 30, 2017 at 07:37PM 
+DB1 Naive Cnv SUbject 21 Complete,April 30, 2017 at 10:25PM 
+DB1 Naive Cnv SUbject 22 Complete,May 01, 2017 at 12:45AM 
+DB1 Naive Cnv SUbject 23 Complete,May 01, 2017 at 03:17AM 
+DB1 Naive Cnv SUbject 24 Complete,May 01, 2017 at 05:32AM 
+DB1 Naive Cnv SUbject 25 Complete,May 01, 2017 at 07:45AM 
+DB1 Naive Cnv SUbject 26 Complete,May 01, 2017 at 10:16AM 
+DB1 Naive Cnv SUbject 27 Complete,May 01, 2017 at 12:38PM 
+Finished Review!,May 01, 2017 at 03:15PM 
+Finished Review!,May 02, 2017 at 05:58AM 
+Nina-net Subject 1 Complete,May 02, 2017 at 11:09AM 
+Nina-net Subject 2 Complete,May 02, 2017 at 01:07PM 
+Nina-net Subject 3 Complete,May 02, 2017 at 02:59PM 
+Nina-net Subject 4 Complete,May 02, 2017 at 04:48PM 
+Nina-net Subject 5 Complete,May 02, 2017 at 06:34PM 
+Nina-net Subject 6 Complete,May 02, 2017 at 08:16PM 
+Nina-net Subject 7 Complete,May 02, 2017 at 10:11PM 
+Nina-net Subject 8 Complete,May 03, 2017 at 12:08AM 
+Nina-net Subject 9 Complete,May 03, 2017 at 02:00AM 
+Nina-net Subject 10 Complete,May 03, 2017 at 04:06AM 
+Nina-net Subject 11 Complete,May 03, 2017 at 05:49AM 
+Nina-net Subject 12 Complete,May 03, 2017 at 07:47AM 
+Nina-net Subject 13 Complete,May 03, 2017 at 09:33AM 
+Nina-net Subject 14 Complete,May 03, 2017 at 11:25AM 
+Error!,May 03, 2017 at 01:05PM 
+Nina-net Subject 15 Complete,May 03, 2017 at 01:15PM 
+Nina-net Subject 16 Complete,May 03, 2017 at 03:12PM 
+Nina-net Subject 17 Complete,May 03, 2017 at 05:00PM 
+Nina-net Subject 18 Complete,May 03, 2017 at 06:30PM 
+Nina-net Subject 19 Complete,May 03, 2017 at 08:23PM 
+Naive Conv 2 Subject 1 Complete,May 03, 2017 at 09:04PM 
+Nina-net Subject 20 Complete,May 03, 2017 at 10:42PM 
+Nina-net Subject 21 Complete,May 04, 2017 at 12:51AM 
+Nina-net Subject 22 Complete,May 04, 2017 at 02:59AM 
+Nina-net Subject 23 Complete,May 04, 2017 at 04:41AM 
+Naive Conv 2 Subject 2 Complete,May 04, 2017 at 04:45AM 
+Nina-net Subject 24 Complete,May 04, 2017 at 06:34AM 
+Nina-net Subject 25 Complete,May 04, 2017 at 08:34AM 
+Nina-net Subject 26 Complete,May 04, 2017 at 10:57AM 
+Naive Conv 2 Subject 3 Complete,May 04, 2017 at 12:17PM 
+Nina-net Subject 27 Complete,May 04, 2017 at 12:43PM 
+Naive Conv 2 Subject 4 Complete,May 04, 2017 at 07:17PM 
+Nina-net 2 Subject 1 Complete,May 04, 2017 at 07:27PM 
+Nina-net 2 Subject 2 Complete,May 04, 2017 at 09:34PM 
+Nina-net 2 Subject 3 Complete,May 05, 2017 at 02:18AM 
+Naive Conv 2 Subject 5 Complete,May 05, 2017 at 02:53AM 
+Nina-net 2 Subject 4 Complete,May 05, 2017 at 04:27AM 
+Nina-net 2 Subject 5 Complete,May 05, 2017 at 06:27AM 
+Nina-net 2 Subject 6 Complete,May 05, 2017 at 08:35AM 
+Naive Conv 2 Subject 6 Complete,May 05, 2017 at 10:16AM 
+Nina-net 2 Subject 7 Complete,May 05, 2017 at 02:43PM 
+Nina-net 2 Subject 8 Complete,May 05, 2017 at 05:07PM 
+Rest Binary Subject 1 Complete,May 05, 2017 at 06:11PM 
+Rest Binary Subject 2 Complete,May 05, 2017 at 06:22PM 
+Rest Binary Subject 3 Complete,May 05, 2017 at 06:36PM 
+Rest Binary Subject 4 Complete,May 05, 2017 at 06:48PM 
+Rest Binary Subject 5 Complete,May 05, 2017 at 07:03PM 
+Rest Binary Subject 6 Complete,May 05, 2017 at 07:15PM 
+Nina-net 2 Subject 9 Complete,May 05, 2017 at 07:25PM 
+Rest Binary Subject 7 Complete,May 05, 2017 at 07:31PM 
+Rest Binary Subject 8 Complete,May 05, 2017 at 07:46PM 
+Rest Binary Subject 9 Complete,May 05, 2017 at 08:00PM 
+Rest Binary Subject 10 Complete,May 05, 2017 at 08:16PM 
+Rest Binary Subject 11 Complete,May 05, 2017 at 08:33PM 
+Rest Binary Subject 12 Complete,May 05, 2017 at 08:45PM 
+Rest Binary Subject 13 Complete,May 05, 2017 at 08:58PM 
+Rest Binary Subject 14 Complete,May 05, 2017 at 09:14PM 
+Rest Binary Subject 15 Complete,May 05, 2017 at 09:27PM 
+Rest Binary Subject 16 Complete,May 05, 2017 at 09:40PM 
+Nina-net 2 Subject 10 Complete,May 05, 2017 at 09:51PM 
+Rest Binary Subject 17 Complete,May 05, 2017 at 09:53PM 
+Rest Binary Subject 18 Complete,May 05, 2017 at 10:05PM 
+Rest Binary Subject 19 Complete,May 05, 2017 at 10:16PM 
+Rest Binary Subject 20 Complete,May 05, 2017 at 10:29PM 
+Rest Binary Subject 21 Complete,May 05, 2017 at 10:41PM 
+Rest Binary Subject 22 Complete,May 05, 2017 at 10:53PM 
+Rest Binary Subject 23 Complete,May 05, 2017 at 11:09PM 
+Rest Binary Subject 24 Complete,May 05, 2017 at 11:23PM 
+Rest Binary Subject 25 Complete,May 05, 2017 at 11:37PM 
+Rest Binary Subject 26 Complete,May 05, 2017 at 11:48PM 
+Nina-net 2 Subject 11 Complete,May 05, 2017 at 11:57PM 
+Rest Binary Subject 27 Complete,May 06, 2017 at 12:02AM 
+Finished Review!,May 06, 2017 at 01:28AM 
+Nina-net 2 Subject 12 Complete,May 06, 2017 at 02:57AM 
+Nina-net 2 Subject 13 Complete,May 06, 2017 at 04:55AM 
+Nina-net 2 Subject 14 Complete,May 06, 2017 at 07:09AM 
+Nina-net 2 Subject 15 Complete,May 06, 2017 at 09:12AM 
+Nina-net 2 Subject 16 Complete,May 07, 2017 at 02:47PM 
+Nina-net 2 Subject 17 Complete,May 07, 2017 at 08:03PM 
+Nina-net 2 Subject 18 Complete,May 08, 2017 at 12:12AM 
+Nina-net 2 Subject 19 Complete,May 08, 2017 at 05:09AM 
+Nina-net 2 Subject 20 Complete,May 08, 2017 at 11:59AM 
+Main + Rest Preprocess Subject 16 Complete,May 08, 2017 at 01:40PM 
+Main + Rest Preprocess Subject 17 Complete,May 08, 2017 at 03:13PM 
+Error!,May 08, 2017 at 05:16PM 
+Nina-net 2 Subject 21 Complete,May 08, 2017 at 05:34PM 
+Error!,May 08, 2017 at 06:37PM 
+Nina-net 2 Subject 22 Complete,May 08, 2017 at 11:00PM 
+Move Only Subject 1 Complete,May 09, 2017 at 02:00AM 
+Nina-net 2 Subject 23 Complete,May 09, 2017 at 03:28AM 
+Move Only Subject 2 Complete,May 09, 2017 at 03:44AM 
+Move Only Subject 3 Complete,May 09, 2017 at 05:30AM 
+Move Only Subject 4 Complete,May 09, 2017 at 07:25AM 
+Nina-net 2 Subject 24 Complete,May 09, 2017 at 08:28AM 
+Move Only Subject 5 Complete,May 09, 2017 at 11:25AM 
+Move Only Subject 6 Complete,May 09, 2017 at 01:18PM 
+Nina-net 2 Subject 25 Complete,May 09, 2017 at 01:52PM 
+Move Only Subject 7 Complete,May 09, 2017 at 03:04PM 
+Move Only Subject 8 Complete,May 09, 2017 at 04:35PM 
+Nina-net 2 Subject 26 Complete,May 09, 2017 at 07:22PM 
+Nina-net 2 Subject 27 Complete,May 09, 2017 at 11:58PM 
+Move Only Subject 9 Complete,May 10, 2017 at 01:33AM 
+Move Only Subject 10 Complete,May 10, 2017 at 03:21AM 
+Move Only Subject 11 Complete,May 10, 2017 at 04:54AM 
+Move Only Subject 12 Complete,May 10, 2017 at 06:42AM 
+Move Only Subject 13 Complete,May 10, 2017 at 09:37AM 
+Move Only Subject 14 Complete,May 10, 2017 at 11:26AM 
+Move Only Subject 15 Complete,May 10, 2017 at 12:57PM 
+Finished Review!,May 10, 2017 at 01:50PM 
+Move Only Subject 16 Complete,May 10, 2017 at 02:42PM 
+Move Only Subject 17 Complete,May 10, 2017 at 04:35PM 
+Main No Rep 1 Subject 16 Complete,May 10, 2017 at 09:26PM 
+Move Only Subject 18 Complete,May 11, 2017 at 01:02AM 
+Move Only Subject 19 Complete,May 11, 2017 at 03:08AM 
+Move Only Subject 20 Complete,May 11, 2017 at 04:58AM 
+Move Only Subject 21 Complete,May 11, 2017 at 06:52AM 
+Move Only Subject 22 Complete,May 11, 2017 at 08:36AM 
+Move Only Subject 23 Complete,May 11, 2017 at 10:32AM 
+Main No Rep 1 Subject 1 Complete,May 12, 2017 at 01:06AM 
+Move Only Subject 24 Complete,May 12, 2017 at 01:55AM 
+Move Only Subject 25 Complete,May 12, 2017 at 03:30AM 
+Move Only Subject 26 Complete,May 12, 2017 at 05:07AM 
+Move Only Subject 27 Complete,May 12, 2017 at 06:53AM 
+Main No Rep 1 Subject 2 Complete,May 12, 2017 at 08:17AM 
+Main No Rep 1 Subject 3 Complete,May 12, 2017 at 03:09PM 
+Finished Review!,May 12, 2017 at 03:44PM 
+Finished Review!,May 12, 2017 at 10:17PM 
+Main No Rep 1 Subject 4 Complete,May 12, 2017 at 10:45PM 
+Main No Rep 1 Subject 5 Complete,May 13, 2017 at 06:30AM 
+Main No Rep 1 Subject 6 Complete,May 13, 2017 at 01:15PM 
+Finished Review!,May 13, 2017 at 02:12PM 
+Main No Rep 1 Subject 7 Complete,May 13, 2017 at 08:30PM 
+Main No Rep 1 Subject 27 Complete,May 14, 2017 at 02:33AM 
+Main No Rep 1 Subject 8 Complete,May 14, 2017 at 02:54AM 
+Main No Rep 1 Subject 26 Complete,May 14, 2017 at 05:19AM 
+Main No Rep 1 Subject 25 Complete,May 14, 2017 at 07:33AM 
+Main No Rep 1 Subject 9 Complete,May 14, 2017 at 09:33AM 
+Main No Rep 1 Subject 24 Complete,May 14, 2017 at 10:26AM 
+Main No Rep 1 Subject 10 Complete,May 14, 2017 at 04:16PM 
+Main No Rep 1 Subject 11 Complete,May 14, 2017 at 10:28PM 
+Main No Rep 1 Subject 23 Complete,May 15, 2017 at 03:24AM 
+Main No Rep 1 Subject 12 Complete,May 15, 2017 at 05:00AM 
+Main No Rep 1 Subject 22 Complete,May 15, 2017 at 06:10AM 
+Main No Rep 1 Subject 21 Complete,May 15, 2017 at 09:13AM 
+Main No Rep 1 Subject 13 Complete,May 15, 2017 at 11:01AM 
+Main No Rep 1 Subject 20 Complete,May 15, 2017 at 12:27PM 
+Main No Rep 1 Subject 19 Complete,May 15, 2017 at 03:17PM 
+Main No Rep 1 Subject 18 Complete,May 15, 2017 at 05:32PM 
+Main No Rep 1 Subject 14 Complete,May 15, 2017 at 05:54PM 
+Did the svm work?,May 15, 2017 at 06:02PM 
+Main No Rep 1 Subject 17 Complete,May 15, 2017 at 08:07PM 
+Main No Rep 1 Subject 15 Complete,May 16, 2017 at 01:05AM 
+Main No Rep 1 Subject 16 Complete,May 16, 2017 at 08:36AM 
+Finished Review!,May 18, 2017 at 12:14AM 
+DB1 SVM Subject 1 Complete,May 18, 2017 at 09:58AM 
+DB1 SVM Subject 1 Complete,May 19, 2017 at 12:47PM 
+DB1 SVM Subject 2 Complete,May 20, 2017 at 09:30AM 
+DB1 SVM Subject 11 Complete,May 22, 2017 at 07:32PM 
+DB1 SVM Subject 7 Complete,May 22, 2017 at 09:44PM 
+DB1 SVM Subject 6 Complete,May 22, 2017 at 09:52PM 
+DB1 SVM Subject 5 Complete,May 23, 2017 at 01:02AM 
+DB1 SVM Subject 9 Complete,May 23, 2017 at 12:42PM 
+DB1 SVM Subject 10 Complete,May 23, 2017 at 01:55PM 
+DB1 SVM Subject 4 Complete,May 23, 2017 at 07:04PM 
+DB1 SVM Subject 8 Complete,May 23, 2017 at 10:36PM 
+DB1 SVM Subject 15 Complete,May 24, 2017 at 02:51AM 
+DB1 SVM Subject 13 Complete,May 24, 2017 at 04:37AM 
+DB1 SVM Subject 12 Complete,May 24, 2017 at 06:21AM 
+DB1 SVM Subject 3 Complete,May 24, 2017 at 07:27AM 
+DB1 SVM Subject 14 Complete,May 24, 2017 at 08:18AM 
+DB1 SVM Subject 16 Complete,May 25, 2017 at 05:26AM 
+DB1 DWT Net Subject 1 Complete,May 25, 2017 at 05:53PM 
+DB1 DWT Net Subject 2 Complete,May 25, 2017 at 10:10PM 
+Error!,May 28, 2017 at 02:18PM 
+DB1 DWT Net Subject 1 Complete,May 29, 2017 at 04:08AM 
+Error!,May 29, 2017 at 01:53PM 
+Error!,May 29, 2017 at 01:57PM 
+Error!,May 30, 2017 at 02:54PM 
+Error!,May 30, 2017 at 02:58PM 
+DB1 LSTM Subject 1 Complete,May 31, 2017 at 02:13AM 
+DB1 LSTM Subject 2 Complete,May 31, 2017 at 05:03AM 
+DB1 SVM Subject 25 Complete,May 31, 2017 at 04:02PM 
+DB1 SVM Subject 21 Complete,May 31, 2017 at 08:32PM 
+DB1 SVM Subject 24 Complete,May 31, 2017 at 08:45PM 
+DB1 SVM Subject 26 Complete,June 01, 2017 at 02:13AM 
+DB1 TtS Subject 1 Complete,June 01, 2017 at 03:15AM 
+DB1 SVM Subject 18 Complete,June 01, 2017 at 04:21AM 
+DB1 SVM Subject 27 Complete,June 01, 2017 at 06:14AM 
+DB1 TtS Subject 2 Complete,June 01, 2017 at 06:31AM 
+DB1 SVM Subject 23 Complete,June 01, 2017 at 07:20AM 
+DB1 SVM Subject 20 Complete,June 01, 2017 at 09:44AM 
+DB1 TtS Subject 1 Complete,June 01, 2017 at 05:38PM 
+DB1 SVM Subject 19 Complete,June 01, 2017 at 07:12PM 
+DB1 SVM Subject 17 Complete,June 01, 2017 at 10:17PM
